@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="SDI_SDImax"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69919509"
+     inkscape:cx="562.07489"
+     inkscape:cy="702.95116"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-opacity:1"
+       d="M 39.036019,90.225704 V 200.5068 l 124.909661,0"
+       id="path247" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:7.05556px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.750001;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+       x="24.819687"
+       y="96.583008"
+       id="text1172"><tspan
+         id="tspan1170"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="24.819687"
+         y="96.583008"
+         sodipodi:role="line">log (N)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:7.05556px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.750001;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+       x="154.37317"
+       y="212.49493"
+       id="text1172-7"><tspan
+         id="tspan1170-3"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="154.37317"
+         y="212.49493"
+         sodipodi:role="line">log (dg)</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.750001;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 74.223498,81.998607 168.67906,179.13372"
+       id="path1365" />
+    <path
+       style="fill:none;stroke:#e68484;stroke-width:0.75;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke;stroke-dasharray:0.75,0.75;stroke-dashoffset:0"
+       d="M 70.377906,85.967873 164.83347,183.10298"
+       id="path1365-6" />
+    <path
+       style="fill:none;stroke:#e68484;stroke-width:0.75;stroke-linejoin:bevel;stroke-dasharray:0.75,2.25;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 66.446919,89.408592 160.90248,186.5437"
+       id="path1365-6-2" />
+    <path
+       style="fill:none;stroke:#e68484;stroke-width:0.75;stroke-linejoin:bevel;stroke-dasharray:0.75,4.5;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 62.86339,92.794835 94.45556,97.135105"
+       id="path1365-6-2-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:none;stroke:#ff0000;stroke-width:0.750001;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+       x="83.603394"
+       y="76.436333"
+       id="text1547"><tspan
+         sodipodi:role="line"
+         id="tspan1545"
+         style="stroke-width:0.75"
+         x="83.603394"
+         y="76.436333">SDImax</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 55.989487,108.42078 h 39.413452 v 29.75067 h 28.628451 v 25.88663 h 25.61708 l 0,23.12705"
+       id="path2009" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.750001;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       x="52.031593"
+       y="104.70383"
+       id="text2013"><tspan
+         sodipodi:role="line"
+         id="tspan2011"
+         style="stroke-width:0.75"
+         x="52.031593"
+         y="104.70383">SDI</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.750001;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke;stroke-dasharray:0.75000101,9.00001216;stroke-dashoffset:0"
+       d="M 58.988441,95.495583 153.444,192.63069"
+       id="path1365-0" />
+  </g>
+</svg>
