@@ -1,0 +1,16 @@
+cff-version: 1.0.0
+message: "Si usas estos recursos, cítalos como se indica a continuación"
+authors:
+- family-names: "Vázquez-Veloso"
+  given-names: "Aitor"
+  orcid: "https://orcid.org/0000-0003-0227-506X"
+- family-names: "Ordonez"
+  given-names: "Cristobal"
+  orcid: "https://orcid.org/0000-0001-5354-3760"
+- family-names: "Bravo"
+  given-names: "Felipe"
+  orcid: "https://orcid.org/0000-0001-7348-6695"
+title: "Resultados preliminares obtenidos de las simulaciones selvícolas realizadas para el proyecto Life Rebollo"
+version: 1.0.0
+date-released: 2023-09-29
+url: "https://github.com/aitorvv/LifeRebollo_simulations"
